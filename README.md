@@ -5,10 +5,10 @@ Wanna go have lunch!
 
 GOGOGO
 
-## Subheader
+## Lunch Menu
 
-I ate Ddeokmanduguk today
+Ddeokmanduguk wa great.
 
 ## Local Development
 
-1. Open index.html in your browser.
+1. ganadaramabasa
