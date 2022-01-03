@@ -11,4 +11,6 @@ Ddeokmanduguk wa great.
 
 ## Local Development
 
-1. ganadaramabasa
+haha
+
+## quick test
